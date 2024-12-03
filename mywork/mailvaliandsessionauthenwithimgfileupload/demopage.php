@@ -22,6 +22,7 @@ if (!isset($_SESSION["sname"])) {
 
     <!-- Form for capturing user information -->
     <form action="#" method="post">
+        <h1>registration page</h1>
         <div>
             ID: <br>
             <input type="text" name="txtId" id="">
