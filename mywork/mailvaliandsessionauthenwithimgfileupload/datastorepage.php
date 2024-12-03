@@ -44,6 +44,7 @@
         </div>
         <div>
             <button name="btn">Submit</button>
+            <a href="logoutpage.php"><button>Log out</button></a>
         </div>
     </form>
 

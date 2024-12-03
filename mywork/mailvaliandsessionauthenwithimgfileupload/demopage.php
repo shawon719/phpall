@@ -18,7 +18,7 @@ if (!isset($_SESSION["sname"])) {
 </head>
 <body>
     <!-- Link to another page -->
-    <a href="another.php">Another</a>
+    <a href="datastorepage.php">datastore</a>
 
     <!-- Form for capturing user information -->
     <form action="#" method="post">

@@ -18,6 +18,7 @@
             }
             public static function showdata(){
                 $students=file("datastore.txt");
+
                 echo "<table borfer='1'>
                             <tr>
                                 <th>Name</th>
@@ -29,7 +30,7 @@
                                 echo "<tr>
                                             <th>$name</th>
                                             <th>$id</th>
-                                            <th>batch</th>
+                                            <th>$batch</th>
                                 </tr>";
                             }
             }
